@@ -23,6 +23,6 @@ This repository is part of my learning journey in data analytics. I will continu
 ---
 
 ## 📬 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/rafia-ferdous-duti)
+[![LinkedIn](www.linkedin.com/in/rafia-ferdous-duti)
 
 ---
