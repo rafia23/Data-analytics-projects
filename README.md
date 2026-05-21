@@ -19,7 +19,7 @@ This repository is part of my learning journey in data analytics. I will continu
 - **Data Processing:** Excel, Python (Pandas)
 - **Data analysis:** SQL
 - **Visualization:** Power BI
-- 
+  
 ---
 
 # 👩‍💻 Author
