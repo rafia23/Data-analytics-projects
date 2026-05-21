@@ -22,7 +22,9 @@ This repository is part of my learning journey in data analytics. I will continu
 - 
 ---
 
-## 📬 Contact
-[![LinkedIn](www.linkedin.com/in/rafia-ferdous-duti)
+# 👩‍💻 Author
+
+**Rafia Ferdous**
+- LinkedIn: www.linkedin.com/in/rafia-ferdous-duti
 
 ---
