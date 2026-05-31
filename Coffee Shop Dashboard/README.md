@@ -50,9 +50,11 @@ The dataset and business scenario used in this project were provided as part of 
 
 ## Dashboard Preview
 
-![Coffee Sales Dashboard - Astoria](Coffee Sales Dashboard - Astoria.PNG)
-![Coffee Sales Dashboard - Hell's Kitchen](Coffee Sales Dashboard - Hell's Kitchen.PNG)
-![Coffee Sales Dashboard - Lower Manhattan](Coffee Sales Dashboard - Lower Manhattan.PNG)
+![Astoria](astoria_dashboard.PNG)
+
+![Hell's Kitchen](hells_kitchen_dashboard.PNG)
+
+![Lower Manhattan](lower_manhattan_dashboard.PNG)
 
 
 ## Key Insights
