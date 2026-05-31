@@ -50,10 +50,13 @@ The dataset and business scenario used in this project were provided as part of 
 
 ## Dashboard Preview
 
+Astoria:
 ![Astoria](astoria_dashboard.PNG)
 
+Hell's Kitchen:
 ![Hell's Kitchen](hells_kitchen_dashboard.PNG)
 
+Lower Manhattan:
 ![Lower Manhattan](lower_manhattan_dashboard.PNG)
 
 
