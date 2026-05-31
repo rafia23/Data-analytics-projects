@@ -33,6 +33,12 @@ The dataset and business scenario used in this project were provided as part of 
 * 3 store locations (Astoria, Hell's Kitchen, Lower Manhattan)
 * Period: January 2023 – June 2023
 
+## Data Preparation
+- Checked for missing values and data inconsistencies.
+- Verified data types for dates, times, quantities, and prices.
+- Created calculated fields for Month, Day of Week, and Hour of Day to support time-based analysis.
+- Organized the data using Excel Pivot Tables and Pivot Charts for dashboard development.
+
 ## Dashboard Features
 
 * Monthly revenue analysis
@@ -44,7 +50,9 @@ The dataset and business scenario used in this project were provided as part of 
 
 ## Dashboard Preview
 
-(Add dashboard screenshots here)
+![Coffee Sales Dashboard - Astoria](Coffee Sales Dashboard - Astoria.PNG)
+![Coffee Sales Dashboard - Hell's Kitchen](Coffee Sales Dashboard - Hell's Kitchen.PNG)
+![Coffee Sales Dashboard - Lower Manhattan](Coffee Sales Dashboard - Lower Manhattan.PNG)
 
 ## Key Insights
 
