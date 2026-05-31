@@ -54,6 +54,7 @@ The dataset and business scenario used in this project were provided as part of 
 ![Coffee Sales Dashboard - Hell's Kitchen](Coffee Sales Dashboard - Hell's Kitchen.PNG)
 ![Coffee Sales Dashboard - Lower Manhattan](Coffee Sales Dashboard - Lower Manhattan.PNG)
 
+
 ## Key Insights
 
 * Revenue reached its lowest point in February before increasing steadily through June.
