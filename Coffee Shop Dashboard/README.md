@@ -1,14 +1,14 @@
-# Coffee Sales Dashboard Analysis
+# ☕ Coffee Sales Dashboard Analysis
 
-## Project Overview
+## 📌 Project Overview
 
 This project analyzes coffee shop sales performance across three Maven Roasters locations in New York City using an interactive Excel dashboard. The dashboard explores revenue trends, customer purchasing behavior, product performance, and store-level sales patterns from January to June 2023.
 
-## Project Background
+## 📖 Project Background
 
 This dashboard was developed as part of a guided Excel project from Maven Analytics. While the dashboard design and business scenario were based on the guided project, the business insights, cross-location analysis, recommendations, and reporting were independently developed.
 
-## Business Objective
+## 🎯 Business Objective
 
 The objective of this project was to transform transactional sales data into an interactive dashboard that helps identify:
 
@@ -19,27 +19,27 @@ The objective of this project was to transform transactional sales data into an 
 * Opportunities for business improvement
 
   
-## Dataset Source
+## 📂 Dataset Source
 
 The dataset and business scenario used in this project were provided as part of the Maven Analytics guided project:
 
 [Coffee Shop Dashboard Project – Maven Analytics](https://mavenanalytics.io/guided-projects/coffee-shop-dashboard)
 
 
-## Dataset Description
+## 📊 Dataset Description
 
 * 149,116 transaction records
 * 11 fields
 * 3 store locations (Astoria, Hell's Kitchen, Lower Manhattan)
 * Period: January 2023 – June 2023
 
-## Data Preparation
+## 🛠️ Data Preparation
 - Checked for missing values and data inconsistencies.
 - Verified data types for dates, times, quantities, and prices.
 - Created calculated fields for Month, Day of Week, and Hour of Day to support time-based analysis.
 - Organized the data using Excel Pivot Tables and Pivot Charts for dashboard development.
 
-## Dashboard Features
+## ✨ Dashboard Features
 
 * Monthly revenue analysis
 * Transactions by hour of day
@@ -48,7 +48,7 @@ The dataset and business scenario used in this project were provided as part of 
 * Top-performing products
 * Interactive location filtering using slicers
 
-## Dashboard Preview
+## 🖼️ Dashboard Preview
 
 Astoria:
 ![Astoria](astoria_dashboard.PNG)
@@ -60,7 +60,7 @@ Lower Manhattan:
 ![Lower Manhattan](lower_manhattan_dashboard.PNG)
 
 
-## Key Insights
+## 🔍 Key Insights
 
 * Revenue reached its lowest point in February before increasing steadily through June.
 * The 8–10 AM period was consistently the busiest sales window across all locations.
@@ -68,7 +68,7 @@ Lower Manhattan:
 * Saturday showed the weakest overall sales performance.
 * Barista Espresso emerged as one of the strongest revenue-generating products across locations.
 
-## Business Recommendations
+## 💡 Business Recommendations
 
 * Optimize staffing and inventory during morning rush hours.
 * Increase upselling of espresso-based beverages.
@@ -77,7 +77,7 @@ Lower Manhattan:
 * Strengthen customer loyalty programs.
 * Improve weekend performance through targeted promotions.
 
-## Tools Used
+## 🧰 Tools Used
 
 * Microsoft Excel
 * Pivot Tables
@@ -86,8 +86,8 @@ Lower Manhattan:
 * Data Cleaning
 * Business Analysis
 
-## Files Included
+## 📁 Files Included
 
-* Coffee_Sales_Dashboard.xlsx
-* Coffee_Sales_Performance_Report.pdf
+* Coffee Shop Sales Dashboard.xlsx
+* Coffee Sales Performance Report.pdf
 * Dashboard screenshots
